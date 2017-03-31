@@ -6,7 +6,7 @@
 2. 身边有朋友正在看（不久前看过）这些资料
 3. 经典书籍或官方文档，这样可以保障有最多的人群覆盖
 
-如果童鞋同意上述观点，那么，好消息来啦，以下基础系列的作者（韩老师、忆臻兄弟，希望更多小伙伴加入）都是楼主的好朋友，大家从头认真学习，有问题就能得到回答，从此学习路上不再孤单 :-)，现在就一起开始愉快的学习之旅吧！
+如果童鞋同意上述观点，那么，好消息来啦，以下基础系列文章的作者（韩老师、忆臻兄弟，希望更多小伙伴加入）都是楼主的好朋友，大家从头认真学习，有问题就能得到回答，从此学习路上不再孤单 :-)，现在就一起开始愉快的学习之旅吧！
 
 # 基础
 基础分为两大类别，一类是深度学习，另一类是传统的机器学习。
@@ -43,6 +43,17 @@ https://book.douban.com/subject/10758624/
 [《浅析感知机（三）–收敛性证明与对偶形式以及python代码讲解》 ](http://mp.weixin.qq.com/s/JaMdOQ4kQVgRmx9SJ2IFbw)
 
 [详解梯度下降法的三种形式BGD,SGD以及MBGD ](http://mp.weixin.qq.com/s/vWplhegZPIO7_eVtBS4xBg)
+
+## tensorflow 官方文档
+[Getting Started With TensorFlow](Getting Started With TensorFlow)
+
+## IBM 的系列视频
+[通往智慧之路：IBM认知计算课程体系](http://study.163.com/series/1001225001.htm)
+
+IBM中国研究院认知计算系列课程从科研和产业相结合的角度，深入浅出地介绍了认知计算和人工智能技术的起源、发展和未来方向，以及机器学习和深度学习的基本、工具和应用。
+
+坦白说，从教学设计的角度，略显不足。
+
 # 进阶
 [一大波高质量论文](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)，涵盖以下经典副本
 ## MNIST
